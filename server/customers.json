@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "email": "rahul@gmail.com",
+        "phone": "9876543210",
+        "address": "Pune",
+        "status": "Active",
+        "rating": 5,
+        "review": "Very satisfied with the service"
+    },
+    {
+        "id": 2,
+        "name": "Priya Patil",
+        "email": "priya@gmail.com",
+        "phone": "9123456780",
+        "address": "Mumbai",
+        "status": "Pending",
+        "rating": 3,
+        "review": "Service was good"
+    },
+    {
+        "id": 3,
+        "name": "dwnJF",
+        "email": "kjfQ@gmail.com",
+        "phone": "8209372789",
+        "address": "maval flats",
+        "status": "Active",
+        "rating": 5,
+        "review": "fJKFE"
+    }
+]
