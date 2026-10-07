@@ -31,7 +31,7 @@ function App() {
     // Get customers from Node.js
 useEffect(() => {
 
-    fetch("http://localhost:5000/api/customers")
+    fetch("https://simple-crm-backend-b6j2.onrender.com/api/customers")
 
         .then(response => response.json())
 

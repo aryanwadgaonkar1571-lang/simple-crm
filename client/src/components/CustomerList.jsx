@@ -47,7 +47,7 @@ function CustomerList({
         try {
 
             const response = await fetch(
-                `http://localhost:5000/api/customers/${id}`,
+                `https://simple-crm-backend-b6j2.onrender.com/api/customers/${id}`,
                 {
                     method: "DELETE"
                 }

@@ -83,7 +83,7 @@ useEffect(() => {
             if (editingCustomer) {
 
                 response = await fetch(
-                    `http://localhost:5000/api/customers/${editingCustomer.id}`,
+                    `https://simple-crm-backend-b6j2.onrender.com/api/customers/${editingCustomer.id}`,
                     {
                         method: "PUT",
 
@@ -102,7 +102,7 @@ useEffect(() => {
             else {
 
                 response = await fetch(
-                    "http://localhost:5000/api/customers",
+                    "https://simple-crm-backend-b6j2.onrender.com/api/customers",
                     {
                         method: "POST",
 
